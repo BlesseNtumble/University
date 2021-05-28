@@ -62,7 +62,7 @@ body {
 	height: 330px;
 	margin: 13px;
 	padding-bottom: 92px;
-	animation: fadeIn ease 4s;
+	animation: fadeIn 1.2s;
 }
 
 @keyframes fadeIn {
